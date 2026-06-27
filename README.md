@@ -105,5 +105,3 @@ python main.py
 ## License
 
 本项目采用 MIT 开源许可证。
-
-> （注：部分内容可能由 AI 生成）
