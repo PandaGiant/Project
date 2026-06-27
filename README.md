@@ -1,4 +1,3 @@
-[ResNet-CIFAR10_ 基于ResNet-18的CIFAR-10图像分类算法复现.md](https://github.com/user-attachments/files/29405990/ResNet-CIFAR10_.ResNet-18.CIFAR-10.md)
 # ResNet\-CIFAR10: 基于ResNet\-18的CIFAR\-10图像分类
 
 # ResNet\-CIFAR10: 基于 ResNet\-18 的 CIFAR\-10 图像分类
