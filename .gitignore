@@ -1,0 +1,8 @@
+.idea/
+data/
+*.pth
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+training_result.png
